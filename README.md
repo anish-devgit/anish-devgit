@@ -78,9 +78,10 @@ Clean, modern, user-first design.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishr-aj&theme=react-dark&hide_border=true&area=true&radius=10" width="100%" />
 </p>
 
-# 🏆 GitHub Trophies  
+# 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anishr-aj&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy-api.vercel.app/?username=anishr-aj&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ### ⚡ Profile Stats  
