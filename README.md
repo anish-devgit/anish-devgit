@@ -1,38 +1,78 @@
 <!-- ============================
-     Premium Apple-Glass Banner 
+     Animated Neon Banner (Soft Pulse)
      ============================ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anishr-aj/anishr-aj/main/anish_glass_banner.svg" alt="Anish Raj Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/anishr-aj/anishr-aj/main/anish_neon_banner.svg
+" alt="Anish Raj Banner" width="100%" />
 </p>
 
 <!-- ============================
-     Typing Intro 
+     Typing Intro
      ============================ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=2400&pause=800&color=4B5563&center=true&vCenter=true&width=780&lines=Anish+Raj;Full+Stack+%2B+AI+Engineer;Crafting+clean,+scalable,+impactful+products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=2400&pause=800&color=4B5563&center=true&vCenter=true&width=780&lines=Anish+Raj;Full+Stack+%2B+AI+Engineer;Building+modern,+clean+and+scalable+products" />
 </p>
 
 ---
 
-## 👨‍💻 About — Anish Raj  
+# 👨‍💻 About Me
 <p align="center">
-  <img src="https://github.com/anishr-aj.png" width="150" style="border-radius:16px; box-shadow: 0 8px 30px rgba(0,0,0,0.25);" alt="Profile Photo" />
+  <img src="https://github.com/anishr-aj.png" width="150" style="border-radius:16px; box-shadow:0 8px 30px rgba(0,0,0,0.25);" alt="Profile Photo" />
 </p>
 
-- **Full Stack + AI Developer** — building clean, reliable, and scalable products.  
-- Focus: **React / Next.js, Node, Python, ML integrations, production systems.**  
-- Obsessed with shipping: **DSA, projects, automation, performance.**  
+I'm **Anish Raj**, a _Full Stack + AI Developer_ focused on creating **clean, scalable, and high-impact digital products**.  
+I build modern UI/UX, robust backends, and automate workflows using AI.
 
 ---
 
-# 🧰 Tech Stack  
+# 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,nodejs,express,mongodb,firebase,python,java,git,github,jupyter&theme=light" />
 </p>
 
 ---
 
-# 📊 GitHub Metrics (stable & clean)
+# 🏆 Achievements (Premium Cards)
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="250">
+  
+### 🚀 Built 20+  
+### Real Projects  
+High-quality work across full stack + AI.
+
+</td>
+<td align="center" width="250">
+
+### 🔥 300+  
+### Contributions  
+Strong, consistent GitHub activity.
+
+</td>
+<td align="center" width="250">
+
+### 🌍 Open-Source  
+### Contributor  
+Helping devs & shipping public work.
+
+</td>
+<td align="center" width="250">
+
+### 🎨 Strong UI/UX  
+### Understanding  
+Clean, modern, user-first design.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📊 GitHub Metrics
 
 ### 🔥 Contribution Graph  
 <p align="center">
@@ -42,24 +82,25 @@
 ### ⚡ Profile Stats  
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=anishr-aj&show_icons=true&theme=tokyonight&hide_border=true" />
+  &nbsp;
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=anishr-aj&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🌐 Languages  
+### 📂 Languages  
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishr-aj&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🏅 LeetCode (clean flex)
+# 🧠 LeetCode Progress
 
 ### 🎖 Current Badge  
 <p align="center">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024/leetcode-badge-introduction-to-pandas.png" width="130" />
 </p>
 
-### 📈 Progress Card  
+### 📈 Stats  
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/er-anish?theme=dark&font=Lexend&ext=heatmap" />
 </p>
@@ -73,13 +114,14 @@
   </a>
 </p>
 
-Short: A modern high-performance trading UI clone — clean UX, polished visuals, scalable structure.
+> A modern, high-performance trading UI clone with clean design & scalable architecture.
 
 ---
 
-# 🌐 Connect  
+# 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/anishr-aj"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"></a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/er-anish/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
@@ -94,4 +136,4 @@ Short: A modern high-performance trading UI clone — clean UX, polished visuals
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/bornmay/GIF/wave.svg" width="100%" />
 </p>
 
-<p align="center"><i>Made with care • caffeine ☕ • and late-night grind ⚡</i></p>
+<p align="center"><i>Made with clarity • discipline • and the late-night grind ⚡</i></p>
