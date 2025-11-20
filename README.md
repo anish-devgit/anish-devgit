@@ -80,7 +80,7 @@ Clean, modern, user-first design.
 
 # 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anishr-aj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anishr-aj&theme=dracula&no-frame=true&margin-w=15&row=2&column=6" />
 </p>
 
 ### ⚡ Profile Stats  
