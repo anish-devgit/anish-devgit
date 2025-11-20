@@ -2,7 +2,7 @@
      Premium Minimal Banner 
      ============================ -->
 <p align="center">
-  <img src="/mnt/data/anish_banner.svg" alt="Anish Raj Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/anishr-aj/anishr-aj/main/anish_banner.svg" width="100%" />
 </p>
 
 <!-- ============================
