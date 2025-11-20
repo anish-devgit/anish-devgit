@@ -140,7 +140,7 @@ Dark-mode optimized UI components with accessibility baked in.
 
 # 🏆 **Trophy Wall — Curated Excellence**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anishr-aj&theme=onedark&no-frame=true&margin-w=18" width="90%"/>
+  <img src="https://github-trophies.vercel.app/?username=anishr-aj&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="90%"/>
 </p>
 
 ---
