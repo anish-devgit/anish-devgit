@@ -94,6 +94,13 @@ Clean, modern, user-first design.
 
 ---
 
+# 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anishr-aj&theme=algolia&no-frame=true&row=2&column=4" />
+</p>
+
+---
+
 # 🧠 LeetCode Progress
 
 <table align="center">
