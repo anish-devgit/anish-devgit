@@ -2,8 +2,7 @@
      Animated Neon Banner (Soft Pulse)
      ============================ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anishr-aj/anishr-aj/main/anish_neon_banner.svg
-" alt="Anish Raj Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/anishr-aj/anishr-aj/main/anish_neon_banner.svg" alt="Anish Raj Banner" width="100%" />
 </p>
 
 <!-- ============================
@@ -97,7 +96,7 @@ Clean, modern, user-first design.
 
 ### 🎖 Current Badge  
 <p align="center">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024/leetcode-badge-introduction-to-pandas.png" width="130" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024/200_lcc_badge_introduction_to_pandas.png" width="130" />
 </p>
 
 ### 📈 Stats  
