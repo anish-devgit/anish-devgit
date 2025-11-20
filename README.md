@@ -96,8 +96,9 @@ Clean, modern, user-first design.
 
 ### 🎖 Current Badge  
 <p align="center">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024/200_lcc_badge_introduction_to_pandas.png" width="130" />
+  <img src="https://leetcard.jacoblin.cool/er-anish?theme=dark&font=Lexend&ext=heatmap&badge=Introduction%20to%20Pandas" width="280" />
 </p>
+
 
 ### 📈 Stats  
 <p align="center">
@@ -132,7 +133,8 @@ Clean, modern, user-first design.
 
 # ✨ Footer  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bornmay/bornmay/bornmay/GIF/wave.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
 <p align="center"><i>Made with clarity • discipline • and the late-night grind ⚡</i></p>
+
