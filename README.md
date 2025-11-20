@@ -22,6 +22,8 @@
 I'm **Anish Raj**, a _Full Stack + AI Developer_ focused on creating **clean, scalable, and high-impact digital products**.  
 I build modern UI/UX, robust backends, and automate workflows using AI.
 
+📩 **Email:** anishrajyadav97@gmail.com
+
 ---
 
 # 🧰 Tech Stack
@@ -96,19 +98,21 @@ Clean, modern, user-first design.
 
 <table align="center">
 <tr>
+
 <td align="center" width="50%">
 
 ### 🏅 3D Trophy Shelf  
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=er-anish&theme=dark" width="320"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=er-anish&theme=dark" width="330"/>
 
 </td>
 
 <td align="center" width="50%">
 
 ### 📈 Stats  
-<img src="https://leetcard.jacoblin.cool/er-anish?theme=dark&font=Lexend&ext=heatmap" width="330"/>
+<img src="https://leetcard.jacoblin.cool/er-anish?theme=dark&font=Lexend&ext=heatmap" width="340"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -127,17 +131,11 @@ Clean, modern, user-first design.
 
 # 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/anishr-aj">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <a href="https://github.com/anishr-aj"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/er-anish/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  <a href="https://www.linkedin.com/in/er-anish/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   &nbsp;
-  <a href="mailto:anishrajyadav97@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <a href="mailto:anishrajyadav97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <p align="center">
