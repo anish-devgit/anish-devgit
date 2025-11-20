@@ -78,15 +78,6 @@ Clean, modern, user-first design.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishr-aj&theme=react-dark&hide_border=true&area=true&radius=10" width="100%" />
 </p>
 
-# 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/trophy_achievement.svg" width="90" />
-  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/trophy_commit.svg" width="90" />
-  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/trophy_star.svg" width="90" />
-  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/trophy_follower.svg" width="90" />
-  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/trophy_pullrequest.svg" width="90" />
-</p>
-
 ### ⚡ Profile Stats  
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=anishr-aj&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -136,9 +127,17 @@ Clean, modern, user-first design.
 
 # 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/anishr-aj"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/anishr-aj">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
+  </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/er-anish/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/er-anish/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="mailto:anishrajyadav97@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
