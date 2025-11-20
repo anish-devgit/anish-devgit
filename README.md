@@ -95,15 +95,27 @@
 
 ---
 
-# 🏆 Trophy Showcase (MANDATORY)
+# 🏆 Trophy Showcase (2-Column Premium Layout)
 
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=anishr-aj&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="90%"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api/achievements?username=anishr-aj" />
-</p>
+<table>
+<tr>
 
+<td width="50%" align="center">
+
+### ⭐ GitHub Trophies (Small Size)
+<img src="https://github-profile-trophy.vercel.app/?username=anishr-aj&theme=radical&no-frame=true&margin-w=10&row=2&column=3" width="95%" />
+
+</td>
+
+<td width="50%" align="center">
+
+### 🥇 GitHub Achievements (Official)
+<img src="https://github-profile-achievements.vercel.app/api/achievements?username=anishr-aj&simple=true" width="95%" />
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -173,10 +185,11 @@
 <p align="center">
   <a href="https://github.com/anishr-aj"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"></a>
   <a href="https://www.linkedin.com/in/er-anish/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:anishrajyadav97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"></a> <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anishr-aj&style=flat-square&color=blueviolet" />
+  <a href="mailto:anishrajyadav97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anishr-aj&style=flat-square&color=blueviolet" />
 </p>
 
 ---
