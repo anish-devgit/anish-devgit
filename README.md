@@ -98,8 +98,9 @@
 # 🏆 Trophy Showcase (MANDATORY)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anishr-aj&theme=onedark&no-frame=true&margin-w=12&column=8" width="95%" />
+  <img src="https://github-trophies.vercel.app/?username=anishr-aj&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="90%"/>
 </p>
+
 
 ---
 
