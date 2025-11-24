@@ -113,10 +113,7 @@
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=er-anish&theme=dark" width="330"/>
   <img src="https://leetcard.jacoblin.cool/er-anish?theme=dark&font=Lexend&ext=heatmap" width="360"/>
 
-  <a href="https://leetcode.com/er-anish/" target="_blank">
-  <img align="center" src="https://leetcode.com/medal/?showImg=0&id=8737585&isLevel=false" alt="LeetCode Badge" height="200" width="200" />
-</a>
-
+  <a href="https://leetcode.com/er-anish/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="LeetCode Badge" height="200" width="200" /></a>
 </p>
 
 ---
