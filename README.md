@@ -86,11 +86,9 @@
 </p>
 
 <p align="center">
-  <img height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishr-aj&layout=compact&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishr-aj&theme=react-dark&area=true&hide_border=true" width="96%" />
+  <img height="152" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishr-aj&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="152" src="https://github-readme-activity-graph.vercel.app/graph?username=anishr-aj&theme=react-dark&area=true&hide_border=true" />
 </p>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishr-aj&theme=react-dark&area=true&hide_border=true" width="96%" />
 
 ---
 
