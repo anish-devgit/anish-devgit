@@ -109,10 +109,7 @@
 
 # 🧠 LeetCode Progress
 
-  <img src="https://leetcard.jacoblin.cool/er-anish?theme=dark&font=Lexend&ext=heatmap" width="360"/>
-
-  <a href="https://leetcode.com/er-anish/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="LeetCode Badge" height="200" width="200" /></a>
-</p>
+  | <img src="https://leetcard.jacoblin.cool/er-anish?theme=dark&font=Lexend&ext=heatmap" width="360"/> | <a href="https://leetcode.com/er-anish/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" height="200" width="200"/></a> |
 
 ---
 
