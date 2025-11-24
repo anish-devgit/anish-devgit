@@ -89,13 +89,11 @@
   <img height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishr-aj&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-# 📈 Activity Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishr-aj&theme=react-dark&area=true&hide_border=true" width="96%" />
 </p>
+
+---
 
 ---
 
@@ -158,13 +156,6 @@
 
 ---
 
-# 🕰 Developer Timeline
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=3100&color=BA8CFF&center=true&width=780&lines=2019:+UI+Experiments;2020:+React+Apps;2021:+Full-Stack;2022:+Open+Source;2023:+HackerRank+Intern;2024:+AI+Engineering" />
-</p>
-
----
 
 # 🌐 Connect
 
