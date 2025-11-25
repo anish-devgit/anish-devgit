@@ -81,8 +81,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="152" src="https://github-readme-stats.vercel.app/api?username=anishr-aj&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="152" src="https://streak-stats.demolab.com?user=anishr-aj&theme=tokyonight&hide_border=true" />
+  <img height="152" src="https://github-readme-stats.vercel.app/api?username=anishr%2Daj&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="152" src="https://streak-stats.demolab.com?user=anishr%2Daj&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
