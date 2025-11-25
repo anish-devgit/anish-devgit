@@ -70,7 +70,7 @@
 
 # 🚀 Skill Icons + Matrix
 
-## **🛠️ Tech Stack **
+## **🛠️ Tech Stack**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,java,react,nextjs,tailwind,figma,git,github,nodejs,express,mongodb,postgres,postman,docker,firebase,vercel&perline=10" />
