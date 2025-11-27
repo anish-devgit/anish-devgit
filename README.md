@@ -128,10 +128,8 @@ Your support helps me innovate faster:
 ---
 
 ## 🌍 Connect With Me  
-📧 Email: your-email-here@example.com  
-🐦 Twitter/X: your-handle-here  
-💼 LinkedIn: your-profile-here  
-📸 Instagram: your-insta-here  
+📧 Email: anishrajyadav97@gmail.com 
+💼 LinkedIn: https://www.linkedin.com/in/er-anish/
 
 ---
 
