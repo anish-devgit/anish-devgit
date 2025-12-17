@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a1b26,7aa2f7,bb9af7&height=300&section=header&text=Anish%20Raj&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Architecting%20Scalable%20Systems%20%7C%20Open%20Source%20Elite%20%7C%20Data%20Scientist&descAlignY=55&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=300&section=header&text=Anish%20Raj&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Architecting%20Scalable%20Systems%20%7C%20Open%20Source%20Elite%20%7C%20Data%20Scientist&descAlignY=55&descAlign=50" width="100%" alt="Header" />
 
-<a href="https://linkedin.com/in/er-anish">
+  <a href="https://linkedin.com/in/er-anish">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="https://x.com/Anish_Raj_07">
@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BB9AF7&center=true&vCenter=true&width=800&lines=Writing+code+for+Next.js+Core...;Training+AI+Models+with+Python...;Building+High-Performance+Financial+Apps...;Solving+Complex+Open+Source+Issues..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=20C20E&center=true&vCenter=true&width=800&lines=Writing+code+for+Next.js+Core...;Training+AI+Models+with+Python...;Building+High-Performance+Financial+Apps...;Solving+Complex+Open+Source+Issues..." alt="Typing SVG" />
   </a>
 </div>
 
@@ -86,11 +86,38 @@
 
 <h2 align="center">🛠 The Arsenal</h2>
 <div align="center">
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,js,ts,python,nextjs,nodejs,express,mongodb,tailwind,git,github,vercel&perline=6" />
-    </a>
-  </p>
+  <table align="center">
+    <tr>
+      <td align="center" width="120">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+        <br />React
+      </td>
+      <td align="center" width="120">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+        <br />JavaScript
+      </td>
+      <td align="center" width="120">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+        <br />TypeScript
+      </td>
+      <td align="center" width="120">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+        <br />Python
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" />
+        <br />Next.js
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" />
+        <br />Node.js
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" />
+        <br />MongoDB
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
@@ -165,12 +192,12 @@
   
   <br/><br/>
   
-  <table align="center" width="100%" style="border-collapse: collapse;">
+  <table align="center" width="100%">
     <tr>
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=anish-devgit&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&rank_icon=github" width="100%" />
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=anish-devgit&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" width="100%" />
       </td>
-      <td width="50%" align="center" style="border: none;">
+      <td width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-devgit&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="100%" />
       </td>
     </tr>
@@ -188,7 +215,7 @@
 
 <h2 align="center">🏆 Achievements</h2>
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=anish-devgit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <img src="https://github-trophies.vercel.app/?username=anish-devgit&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
 
 <br />
