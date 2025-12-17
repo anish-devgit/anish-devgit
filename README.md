@@ -3,18 +3,23 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=300&section=header&text=Anish%20Raj&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Architecting%20Scalable%20Systems%20%7C%20Open%20Source%20Elite%20%7C%20Data%20Scientist&descAlignY=55&descAlign=50" width="100%" alt="Header" />
 
+  <div align="center">
   <a href="https://linkedin.com/in/er-anish">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" height="50" width="50" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+
   <a href="https://x.com/Anish_Raj_07">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>&nbsp;
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Twitter.png" height="50" width="50" alt="X (Twitter)" />
+  </a>&nbsp;&nbsp;
+
   <a href="mailto:anishrajyadav97@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Gmail.png" height="50" width="50" alt="Email" />
+  </a>&nbsp;&nbsp;
+
   <a href="https://github.com/sponsors/anish-devgit">
-    <img src="https://img.shields.io/badge/Sponsor_My_Work-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" height="50" width="50" alt="Sponsor" />
   </a>
+</div>
 </div>
 
 <br />
