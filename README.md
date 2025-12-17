@@ -88,9 +88,7 @@ I am a **JavaScript Developer** and **Open Source Enthusiast** based in India. I
   
   <br/><br/>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anish-devgit&theme=onedark&no-frame=true&column=7" alt="anish-devgit trophies" />
-  </a>
+  <img src="https://github-trophies.vercel.app/?username=anish-devgit&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="anish-devgit trophies" />
   
   <br/><br/>
   
@@ -109,6 +107,12 @@ I am a **JavaScript Developer** and **Open Source Enthusiast** based in India. I
       </td>
     </tr>
   </table>
+  
+  <br/>
+
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=anish-devgit&icon=0&color=0" alt="Visitor Count" />
+  </a>
 </div>
 
 ---
