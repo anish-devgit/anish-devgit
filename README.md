@@ -1,7 +1,4 @@
-<a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=anish-devgit&icon=3&color=10" />
-  </a>
-</div>
+<img src="https://komarev.com/ghpvc/?username=anish-devgit&style=flat-square&color=7aa2f7&label=Profile+Views" alt="View Counter" />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=300&section=header&text=Anish%20Raj&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Architecting%20Scalable%20Systems%20%7C%20Open%20Source%20Elite%20%7C%20Data%20Scientist&descAlignY=55&descAlign=50" width="100%" alt="Header" />
