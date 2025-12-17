@@ -5,19 +5,19 @@
 
   <div align="center">
   <a href="https://linkedin.com/in/er-anish">
-    <img src="https://raw.githubusercontent.com/kaustubhwankhede/kaustubhwankhede/master/gif/linkedin.gif" width="50" height="50" alt="LinkedIn" />
+    <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="50" height="50" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
 
   <a href="https://x.com/Anish_Raj_07">
-    <img src="https://raw.githubusercontent.com/kaustubhwankhede/kaustubhwankhede/master/gif/twitter.gif" width="50" height="50" alt="Twitter" />
+    <img src="https://img.icons8.com/3d-fluency/94/twitter-circled.png" width="50" height="50" alt="X (Twitter)" />
   </a>&nbsp;&nbsp;
 
   <a href="mailto:anishrajyadav97@gmail.com">
-    <img src="https://raw.githubusercontent.com/kaustubhwankhede/kaustubhwankhede/master/gif/mail.gif" width="50" height="50" alt="Email" />
+    <img src="https://img.icons8.com/3d-fluency/94/gmail.png" width="50" height="50" alt="Email" />
   </a>&nbsp;&nbsp;
 
   <a href="https://github.com/sponsors/anish-devgit">
-    <img src="https://raw.githubusercontent.com/kaustubhwankhede/kaustubhwankhede/master/gif/github.gif" width="50" height="50" alt="Sponsor" />
+    <img src="https://img.icons8.com/3d-fluency/94/love-circled.png" width="50" height="50" alt="Sponsor" />
   </a>
 </div>
 </div>
