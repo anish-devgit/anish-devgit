@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=280&section=header&text=Hi%20there,%20I'm%20Anish%20Raj!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JavaScript%20Developer%20%7C%20Open%20Source%20Elite%20%7C%20Data%20Scientist&descAlignY=55&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:222222,100:0f0f0f&height=280&section=header&text=Hi%20there,%20I'm%20Anish%20Raj!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JavaScript%20Developer%20%7C%20Open%20Source%20Elite%20%7C%20Data%20Scientist&descAlignY=55&descAlign=50" width="100%" alt="Header" />
 
   <a href="https://linkedin.com/in/er-anish">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -25,7 +25,7 @@
 
 <br />
 
-<h2 align="center">🛠 Tech Stack</h2>
+<h2 align="center">🛠 Tech Stack Arsenal</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -39,7 +39,7 @@
 
 <br />
 
-<h2 align="center">⚡ Open Source Contributions</h2>
+<h2 align="center">⚡ Open Source Impact</h2>
 <div align="center">
   <table width="100%">
     <tr>
@@ -96,7 +96,7 @@
 
 <br />
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Production Deployments</h2>
 <table align="center" width="100%">
   <tr>
     <th width="30%">Project</th>
@@ -128,7 +128,7 @@
 
 <br />
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">📊 The Data Dashboard</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anish-devgit&theme=tokyonight&hide_border=true&area=true&custom_title=Anish's%20Contribution%20Graph" width="100%" />
   
