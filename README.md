@@ -88,7 +88,7 @@ I am a **JavaScript Developer** and **Open Source Enthusiast** based in India. I
   
   <br/><br/>
 
-  <img src="https://github-trophies.vercel.app/?username=anish-devgit&theme=radical&no-frame=false&no-bg=false&margin-w=4&rank=SECRET,SSS,SS,S,A" alt="anish-devgit trophies" />
+  <img src="https://github-trophies.vercel.app/?username=anish-devgit&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" alt="anish-devgit trophies" />
   
   <br/><br/>
   
