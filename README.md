@@ -195,7 +195,7 @@
 <h2 align="center">📊 The Data</h2>
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anish-devgit&theme=tokyonight&hide_border=true&area=true&custom_title=Contribution%20Velocity" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anish-devgit&theme=tokyonight&hide_border=true&area=true&line=spline&custom_title=Contribution%20Velocity" width="100%" />
   
   <br/><br/>
   
