@@ -4,20 +4,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=300&section=header&text=Anish%20Raj&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Architecting%20Scalable%20Systems%20%7C%20Open%20Source%20Elite%20%7C%20Data%20Scientist&descAlignY=55&descAlign=50" width="100%" alt="Header" />
 
   <div align="center">
-  <a href="https://linkedin.com/in/er-anish">
-    <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="50" height="50" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/er-anish" target="_blank">
+    <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="55" height="55" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://x.com/Anish_Raj_07">
-    <img src="https://img.icons8.com/3d-fluency/94/twitter-circled.png" width="50" height="50" alt="X (Twitter)" />
-  </a>&nbsp;&nbsp;
+  <a href="https://x.com/Anish_Raj_07" target="_blank">
+    <img src="https://img.icons8.com/3d-fluency/94/twitter-circled.png" width="55" height="55" alt="X (Twitter)" />
+  </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:anishrajyadav97@gmail.com">
-    <img src="https://img.icons8.com/3d-fluency/94/gmail.png" width="50" height="50" alt="Email" />
-  </a>&nbsp;&nbsp;
+  <a href="mailto:anishrajyadav97@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/3d-fluency/94/gmail.png" width="55" height="55" alt="Email" />
+  </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://github.com/sponsors/anish-devgit">
-    <img src="https://img.icons8.com/3d-fluency/94/love-circled.png" width="50" height="50" alt="Sponsor" />
+  <a href="https://github.com/sponsors/anish-devgit" target="_blank">
+    <img src="https://img.icons8.com/3d-fluency/94/love-circled.png" width="55" height="55" alt="Sponsor" />
   </a>
 </div>
 </div>
