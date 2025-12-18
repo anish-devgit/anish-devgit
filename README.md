@@ -124,11 +124,11 @@
         <br />MongoDB
       </td>
       <td align="center" width="88">
-        <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="SQL" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="45" height="45" />
         <br />SQL
       </td>
       <td align="center" width="88">
-        <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+        <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="icon" width="45" height="45" />
         <br />PostgreSQL
       </td>
     </tr>
