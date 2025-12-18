@@ -157,7 +157,7 @@
     </tr>
     <tr>
       <td>
-        <strong>📈 TradeDock</strong>
+        <strong> Zenith Studio</strong>
       </td>
       <td>
         Complex Zerodha clone with real-time stock data handling and high-frequency updates.
