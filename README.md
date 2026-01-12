@@ -1,56 +1,68 @@
-# Designing systems that survive change.
+# Building reliable software that scales with people, not just users.
 
-<br /><br />
+---
 
-I view code as a liability. My goal is to delete as much of it as possible while increasing system stability. I optimize for the poor soul who has to debug this at 3 AM (usually me).
+I focus on designing and shipping software that stays readable, maintainable, and calm under pressure.  
+Most of my work revolves around turning vague problems into clear systems — then refining them until they disappear into reliability.
 
-<br /><br />
+I avoid over-engineering, chase clarity, and care deeply about how code feels six months later.
 
-## Tools I Trust
+---
 
-**When reliability matters**  
-TypeScript, PostgreSQL, Git
+## What I work with
 
-**In production**  
-Next.js, Node.js, Docker
+**When reliability matters**
+- JavaScript / TypeScript  
+- React, modern CSS architectures  
+- Git, GitHub workflows, clean commit history  
 
-**For refining**  
-React, Tailwind CSS
+**When structure matters**
+- Component-driven UI systems  
+- State management with intent  
+- Clear separation of concerns  
 
-<br /><br />
+**When things break**
+- Debugging production issues  
+- Reading unfamiliar codebases  
+- Fixing root causes, not symptoms  
 
-## Open Source
+---
 
-The best contribution is often a deleted line or a clarified document. I aim to leave every repo cleaner than I found it, prioritizing readable implementations over clever hacks. Code is written for humans first, machines second.
+## Open source & collaboration
 
-<br /><br />
+I contribute by improving existing systems rather than rewriting them.  
+That usually means fixing edge cases, clarifying logic, reducing complexity, and respecting the original design decisions of maintainers.
 
-## Selected Work
+I value thoughtful pull requests, small diffs, and code that’s written for the next person — not just the compiler.
+
+---
+
+## Selected work
 
 **[ReactAtom](https://reactatoms.vercel.app/)**  
-The Anti-Library.  
-*Why:* To escape dependency chains and npm bloat.  
-*Engineering Choice:* Zero-runtime overhead via copy-paste architecture.
+A focused solution built to escape dependency hell without unnecessary abstractions.  
+Notable for its copy-paste simplicity and zero-runtime overhead.
 
 **[Zenith Studio](https://zenith-interactive.vercel.app/)**  
-Cinematic rendering engine.  
-*Why:* Proving the browser can rival native console fidelity.  
-*Engineering Choice:* Frame-perfect GSAP timeline management.
+Designed with performance and fidelity in mind, prioritizing frame-perfect interaction over clever shortcuts.
 
 **[MacOS Web](https://macbook-landing-inky.vercel.app/)**  
-OS emulation environment.  
-*Why:* A study in handling complex UI state at scale.  
-*Engineering Choice:* Physics-based interaction models with Framer Motion.
+An experiment in clean architecture and complex state management, refined through iteration.
 
-<br /><br />
+---
 
-## Notes
+## Engineering notes
 
-- Clarity beats cleverness.
-- Refactors are investments.
-- If you can't explain it, you don't understand it.
+- Readability compounds faster than cleverness  
+- Refactoring is part of development, not a phase  
+- If it’s hard to explain, it’s not finished  
+- Good defaults prevent bad decisions  
+- Code is communication first, execution second  
 
-<br /><br />
-<br />
+---
 
-[GitHub](https://github.com/anishr-aj) / [LinkedIn](https://linkedin.com/in/er-anish) / [Email](mailto:anishrajyadav97@gmail.com)
+## Presence
+
+- GitHub: https://github.com/anish-devgit  
+- LinkedIn: https://linkedin.com/in/er-anish  
+- Email: mailto:anishrajyadav97@gmail.com
