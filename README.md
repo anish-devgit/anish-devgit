@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=anish-devgit&style=flat-square&color=7aa2f7&label=Profile+Views" alt="View Counter" />
+<img src="https://komarev.com/ghpvc/?username=anishr-aj&style=flat-square&color=7aa2f7&label=Profile+Views" alt="View Counter" />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=300&section=header&text=Anish%20Raj&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Architecting%20Scalable%20Systems%20%7C%20Open%20Source%20Elite%20%7C%20Data%20Scientist&descAlignY=55&descAlign=50" width="100%" alt="Header" />
@@ -16,7 +16,7 @@
     <img src="https://img.icons8.com/3d-fluency/94/gmail.png" width="55" height="55" alt="Email" />
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://github.com/sponsors/anish-devgit" target="_blank">
+  <a href="https://github.com/sponsors/anishr-aj" target="_blank">
     <img src="https://img.icons8.com/3d-fluency/94/love-circled.png" width="55" height="55" alt="Sponsor" />
   </a>
 </div>
@@ -204,23 +204,23 @@
 <h2 align="center">📊 The Data</h2>
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anish-devgit&bg_color=1a1b26&color=ffffff&line=ff005c&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Velocity" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishr-aj&bg_color=1a1b26&color=ffffff&line=ff005c&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Velocity" width="100%" />
   
   <br/><br/>
   
   <table align="center" width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=anish-devgit&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&rank_icon=github&include_all_commits=true" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=anishr-aj&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&rank_icon=github&include_all_commits=true" width="100%" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-devgit&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishr-aj&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="100%" />
       </td>
     </tr>
   </table>
 
   <br/>
-  <img src="https://streak-stats.demolab.com?user=anish-devgit&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=anishr-aj&theme=tokyonight&hide_border=true" />
   <br/><br/>
 </div>
 
@@ -228,19 +228,19 @@
 
 <h2 align="center">🏆 Achievements</h2>
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=anish-devgit&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <img src="https://github-trophies.vercel.app/?username=anishr-aj&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/anish-devgit/anish-devgit/output/github-contribution-grid-snake.svg" width="80%" />
+  <img src="https://raw.githubusercontent.com/anishr-aj/anishr-aj/output/github-contribution-grid-snake.svg" width="80%" />
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/sponsors/anish-devgit">
+  <a href="https://github.com/sponsors/anishr-aj">
     <img src="https://img.shields.io/badge/Sponsor_My_Work-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
   </a>
 </div>
