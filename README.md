@@ -32,6 +32,12 @@
 
 <br />
 
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</div>
+
+<br />
+
 <h2 align="center">⚡ Engineering Impact & Open Source</h2>
 <p align="center"><i>I don't just use libraries; I optimize them. Here are my contributions to the tools you use every day.</i></p>
 
@@ -93,46 +99,9 @@
 
 <h2 align="center">🛠 The Arsenal</h2>
 <div align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="88">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="45" height="45" />
-        <br />React
-      </td>
-      <td align="center" width="88">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />
-        <br />JavaScript
-      </td>
-      <td align="center" width="88">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="45" height="45" />
-        <br />TypeScript
-      </td>
-      <td align="center" width="88">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" />
-        <br />Python
-      </td>
-      <td align="center" width="88">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
-        <br />Next.js
-      </td>
-      <td align="center" width="88">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
-        <br />Node.js
-      </td>
-      <td align="center" width="88">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
-        <br />MongoDB
-      </td>
-      <td align="center" width="88">
-        <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="SQL" />
-        <br />SQL
-      </td>
-      <td align="center" width="88">
-        <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
-        <br />PostgreSQL
-      </td>
-    </tr>
-  </table>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,ts,python,nextjs,nodejs,mongodb,mysql,postgres&theme=dark" alt="My Skills" />
+  </a>
 </div>
 
 <br />
@@ -165,16 +134,16 @@
     </tr>
     <tr>
       <td>
-  <strong>🌌 Zenith Studio</strong>
-</td>
-<td>
-  High-performance cinematic gaming landing page featuring advanced GSAP scroll-triggered animations and immersive visual storytelling.
-</td>
+        <strong>🌌 Zenith Studio</strong>
+      </td>
       <td>
-  <code>React</code>
-  <code>GSAP</code>
-  <code>Tailwind</code>
-</td>
+        High-performance cinematic gaming landing page featuring advanced GSAP scroll-triggered animations and immersive visual storytelling.
+      </td>
+      <td>
+        <code>React</code>
+        <code>GSAP</code>
+        <code>Tailwind</code>
+      </td>
       <td>
         <a href="https://zenith-interactive.vercel.app/">
           <img src="https://img.shields.io/badge/Live-FF5722?style=flat-square&logo=vercel&logoColor=white" />
