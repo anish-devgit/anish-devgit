@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "name": "devos-dashboard",
+  "functions": {
+    "api/**/*.js": {
+      "maxDuration": 15,
+      "memory": 256
+    }
+  },
+  "headers": [
+    {
+      "source": "/api/(.*)",
+      "headers": [
+        { "key": "Access-Control-Allow-Origin", "value": "*" },
+        { "key": "Access-Control-Allow-Methods", "value": "GET" }
+      ]
+    }
+  ],
+  "env": {
+    "GITHUB_USERNAME": "@github_username",
+    "DEVOS_MISSION":   "@devos_mission",
+    "DEVOS_LEARNING":  "@devos_learning",
+    "DEVOS_SIGNAL":    "@devos_signal",
+    "DEVOS_TAGLINE":   "@devos_tagline"
+  }
+}
