@@ -543,7 +543,7 @@ ARCHETYPE: {archetype['sigil']} {archetype['name']}
 
 **Built with [FORGE](https://github.com/{username}/FORGE)** — *The Developer Identity Engine*
 
-![Visitor Count](https://visitcount.itsvg.in/api?id={username}&label=Profile%20Views&color=0&icon=6&pretty=true)
+![Visitor Count](https://komarev.com/ghpvc/?username={username}&color=00FF9F&style=flat-square&label=Profile+Views)
 
 *README auto-regenerated daily · Last update: `{updated}`*
 
