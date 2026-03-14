@@ -43,15 +43,16 @@ jobs:
       - name: Install Dependencies
         run: |
           pip install --upgrade pip
-          pip install pyyaml requests
+          pip install pyyaml requests feedparser python-dateutil
 
       # ── Generate ──────────────────────────────────────────
-      - name: Run FORGE Generator
+      - name: Run DEVOS Generator
         env:
-          FORGE_TOKEN: ${{ secrets.FORGE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.FORGE_TOKEN }}
+          GITHUB_USERNAME: "anish-devgit"
         run: |
-          echo "◈ Starting FORGE update pipeline..."
-          python scripts/generate_readme.py
+          echo "◈ Starting DEVOS update pipeline..."
+          python generate_readme.py
           echo "◈ Generation complete."
 
       # ── Commit ────────────────────────────────────────────

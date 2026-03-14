@@ -1,0 +1,94 @@
+# ╔══════════════════════════════════════════════════════════════╗
+# ║  DEVOS v2  ·  config.yml                                     ║
+# ║  The only file you need to edit.                             ║
+# ║  Run `npx devos-setup` to configure this interactively.      ║
+# ╚══════════════════════════════════════════════════════════════╝
+
+identity:
+  github_username: "anish-devgit"
+  display_name: "Anish Raj"
+  tagline: "Data Scientist | AI Engineer | MLOps Builder"
+  timezone: "Asia/Kolkata"
+
+status:
+  current_mission: "Building production AI systems from scratch"
+  learning: "Advanced RAG patterns & Kubernetes"
+  open_to:
+    - "collaborations"
+    - "code reviews"
+    - "mentoring"
+  signal_strength: 80     # 0-100: how active / available you are right now
+
+projects:
+  # Up to 5 projects
+  # status options: IN DEV · DEPLOYING · SHIPPED · REVIEWING · COMPILING · PLANNING · PAUSED
+  - name: "rag-engine"
+    url: "https://github.com/anish-devgit/rag-engine"
+    status: "DEPLOYING"
+    progress: 90
+    type: "OSS · Prod"
+    description: "Production document Q&A system over 500+ pages"
+
+  - name: "mlops-pipeline"
+    url: "https://github.com/anish-devgit/mlops-pipeline"
+    status: "IN DEV"
+    progress: 55
+    type: "Experiment"
+    description: "End-to-End MLOps pipeline on AWS"
+
+  - name: "trading-monitor"
+    url: "https://github.com/anish-devgit/trading-monitor"
+    status: "SHIPPED"
+    progress: 100
+    type: "OSS · Dashboard"
+    description: "Real-time algorithmic trading dashboard"
+
+skills:
+  # level options: Beginner · Learning · Intermediate · Proficient · Senior · Expert
+  - name: "Python"
+    level: "Expert"
+  - name: "SQL"
+    level: "Senior"
+  - name: "C++"
+    level: "Proficient"
+  - name: "React"
+    level: "Intermediate"
+  - name: "Docker"
+    level: "Intermediate"
+
+skill_icons:
+  # Browse all icon names at: https://skillicons.dev
+  core: "python,cpp,javascript,typescript"
+  frameworks: "react,nodejs,fastapi,express"
+  infrastructure: "docker,kubernetes,aws,gcp"
+  toolchain: "git,linux,mongodb,postgres"
+
+connect:
+  linkedin: "er-anish"
+  twitter: "anishrs"
+  website: "https://github.com/anish-devgit"
+  email: "anishrajyadav97@gmail.com"
+
+# ── AI TERMINAL PERSONA ───────────────────────────────────────────────────────
+# These fields shape how Claude responds when visitors use !ask
+# The more context you give, the better Claude sounds like you
+ai_persona:
+  communication_style: "direct, technical, occasionally dry"
+  # Add topics you're passionate about — Claude will weave them in
+  passionate_about:
+    - "developer tooling"
+    - "open source sustainability"
+    - "performance optimization"
+  # Add things you're opinionated about
+  opinions:
+    - "Documentation is code"
+    - "Small PRs ship faster"
+
+# ── INTEGRATIONS (configure as GitHub Secrets, not here) ─────────────────────
+# WAKATIME_API_KEY  → wakatime.com/settings/account
+# BLOG_RSS_URL      → your blog's RSS feed URL
+# ANTHROPIC_API_KEY → console.anthropic.com (for !ask AI responses)
+integrations:
+  wakatime: false
+  blog_rss: false
+  ai_terminal: true    # set to false to disable AI responses (just use built-in replies)
