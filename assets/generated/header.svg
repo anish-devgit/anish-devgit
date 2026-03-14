@@ -1,0 +1,52 @@
+<svg width="860" height="160" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 160">
+  <defs>
+    <linearGradient id="hdrGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D0D0D;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#111111;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FFCC02"/>
+      <stop offset="100%" style="stop-color:#F57F17"/>
+    </linearGradient>
+    <filter id="nameGlow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .forge-label { font: 10px 'Courier New', monospace; fill: #444; letter-spacing: 3px; }
+      .forge-name { font: 800 42px 'Courier New', monospace; fill: url(#nameGrad); filter: url(#nameGlow); }
+      .forge-handle { font: 13px 'Courier New', monospace; fill: #666; }
+      .forge-tagline { font: 400 14px 'Courier New', monospace; fill: #999; }
+      .forge-brand { font: 700 11px 'Courier New', monospace; fill: #FFCC02; letter-spacing: 2px; opacity: 0.5; }
+    </style>
+  </defs>
+  
+  <rect width="860" height="160" fill="url(#hdrGrad)"/>
+  
+  <!-- Decorative circuit lines -->
+  <line x1="0" y1="1" x2="860" y2="1" stroke="#FFCC02" stroke-width="1" opacity="0.3"/>
+  <line x1="0" y1="159" x2="860" y2="159" stroke="#FFCC02" stroke-width="1" opacity="0.3"/>
+  
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="4" height="160" fill="#FFCC02" opacity="0.8"/>
+  
+  <!-- Corner brackets -->
+  <polyline points="20,20 8,20 8,8 20,8" fill="none" stroke="#FFCC02" stroke-width="1.5" opacity="0.6"/>
+  <polyline points="840,8 852,8 852,20 840,20" fill="none" stroke="#FFCC02" stroke-width="1.5" opacity="0.6"/>
+  <polyline points="20,152 8,152 8,140 20,140" fill="none" stroke="#FFCC02" stroke-width="1.5" opacity="0.6"/>
+  <polyline points="840,140 852,140 852,152 840,152" fill="none" stroke="#FFCC02" stroke-width="1.5" opacity="0.6"/>
+  
+  <!-- Content -->
+  <text x="32" y="46" class="forge-label">// DEVELOPER IDENTITY</text>
+  <text x="30" y="98" class="forge-name">Anish Raj</text>
+  <text x="32" y="122" class="forge-handle">@anish-devgit</text>
+  <text x="32" y="146" class="forge-tagline">Data Scientist | AI Engineer | MLOps Builder</text>
+  
+  <!-- FORGE brand -->
+  <text x="825" y="150" text-anchor="end" class="forge-brand">FORGE ◈</text>
+  
+  <!-- Animated scan line -->
+  <rect x="4" y="0" width="856" height="1.5" fill="#FFCC02" opacity="0.06">
+    <animateTransform attributeName="transform" type="translate" from="0,-5" to="0,165" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>

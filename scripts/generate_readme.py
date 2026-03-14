@@ -564,7 +564,7 @@ def main():
     
     # Load config
     print("  ◈ Loading forge.yml config...")
-    with open(CONFIG_PATH) as f:
+    with open(CONFIG_PATH, encoding="utf-8") as f:
         config = yaml.safe_load(f)
     
     username = config["identity"]["github_username"]
@@ -614,7 +614,7 @@ def main():
         arch_primary,
         arch_secondary,
     )
-    (ASSETS_DIR / "header.svg").write_text(header_svg)
+    (ASSETS_DIR / "header.svg").write_text(header_svg, encoding="utf-8")
     print("    ✓ header.svg")
     
     # 2. Status badge
@@ -623,12 +623,12 @@ def main():
         config["status"]["current_mission"],
         arch_primary,
     )
-    (ASSETS_DIR / "status.svg").write_text(status_svg)
+    (ASSETS_DIR / "status.svg").write_text(status_svg, encoding="utf-8")
     print("    ✓ status.svg")
     
     # 3. Archetype badge
     arch_svg = render_archetype_badge_svg(archetype_key, theme)
-    (ASSETS_DIR / "archetype.svg").write_text(arch_svg)
+    (ASSETS_DIR / "archetype.svg").write_text(arch_svg, encoding="utf-8")
     print("    ✓ archetype.svg")
     
     # 4. Developer Pulse
@@ -645,18 +645,18 @@ def main():
         total_contributions=contributions["totalContributions"],
         year=datetime.datetime.utcnow().year,
     )
-    (ASSETS_DIR / "pulse.svg").write_text(pulse_svg)
+    (ASSETS_DIR / "pulse.svg").write_text(pulse_svg, encoding="utf-8")
     print("    ✓ pulse.svg")
     
     # 5. Language matrix
     lang_svg = build_skill_radar_svg(profile.languages, arch_primary, arch_secondary)
-    (ASSETS_DIR / "lang_matrix.svg").write_text(lang_svg)
+    (ASSETS_DIR / "lang_matrix.svg").write_text(lang_svg, encoding="utf-8")
     print("    ✓ lang_matrix.svg")
     
     # Build README
     print("  ◈ Building README.md...")
     readme_content = build_readme(config, raw_data, profile, archetype_key, archetype, theme)
-    README_PATH.write_text(readme_content)
+    README_PATH.write_text(readme_content, encoding="utf-8")
     print("    ✓ README.md")
     
     print(f"""
